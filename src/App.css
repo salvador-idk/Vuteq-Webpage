@@ -1,0 +1,22 @@
+/* src/App.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333; /* Dark text color */
+}
+
+.header {
+    background-color: #f6e02e; /* Caterpillar yellow */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

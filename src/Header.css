@@ -1,0 +1,19 @@
+/* src/Header.css */
+.header {
+    background-color: #f6e02e; /* Caterpillar yellow */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
